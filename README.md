@@ -1,2 +1,2 @@
 # ThirdCourse
-ThirdCourse
+Здесь будут собраны все работы за 3 курс
